@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2fk837o1c5m3rrt3?svg=true)](https://ci.appveyor.com/project/FURSADMIT/postmanecho-lkowg)
